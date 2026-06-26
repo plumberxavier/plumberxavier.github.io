@@ -51,7 +51,7 @@ Until you do this, the form politely tells visitors to call instead, so nothing 
 
 ## 2. Publish with GitHub Pages (free hosting)
 
-The site is already in your repo (`Anthony-Sin/plumber_xavier`). To put it online:
+The site is already in your repo (`plumberxavier/plumberxavier.github.io`). To put it online:
 
 1. Push the files to GitHub (see **Deploy** below) — or they may already be pushed for you.
 2. On GitHub, open the repo → **Settings** → **Pages**.
@@ -59,7 +59,7 @@ The site is already in your repo (`Anthony-Sin/plumber_xavier`). To put it onlin
 4. Set **Branch = `main`** and **Folder = `/ (root)`** → **Save**.
 5. Wait ~1 minute. Your site goes live at:
 
-   **https://anthony-sin.github.io/plumber_xavier/**
+   **https://plumberxavier.github.io/**
 
 That URL is already used in the SEO tags, sitemap, and social image, so everything matches out of the box.
 

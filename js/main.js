@@ -66,7 +66,7 @@
       var key = data.get("access_key");
 
       if (!key || key === PLACEHOLDER_KEY) {
-        showStatus("error", "This form isn’t connected yet. Please call (917) 396-9796 — or finish the quick Web3Forms setup in the README.");
+        showStatus("error", "Unable to send request online. Please call or text (917) 396-9796 — we are available from 6am to 10pm daily.");
         return;
       }
 
