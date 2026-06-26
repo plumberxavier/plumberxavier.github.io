@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Plumber Xavier — Fort Lauderdale plumbing">
+  <rect width="1200" height="630" fill="#faf9f5"/>
+  <rect width="1200" height="12" fill="#cc785c"/>
+
+  <!-- right-side art -->
+  <circle cx="965" cy="320" r="240" fill="#cc785c" opacity="0.08"/>
+  <g transform="translate(815 150) scale(1.55)">
+    <path d="M100 20C100 20 40 95 40 135a60 60 0 0 0 120 0C160 95 100 20 100 20Z" fill="#cc785c"/>
+    <path d="M78 110 122 154M122 110 78 154" fill="none" stroke="#faf9f5" stroke-width="16" stroke-linecap="round"/>
+  </g>
+
+  <!-- text -->
+  <text x="96" y="186" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="3" fill="#cc785c">FORT LAUDERDALE, FL · LICENSED &amp; INSURED</text>
+  <text x="92" y="300" font-family="Georgia, 'Times New Roman', serif" font-size="104" fill="#141413">Plumber Xavier</text>
+  <text x="96" y="372" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-style="italic" fill="#3d3d3a">Fast, reliable plumbing — done properly.</text>
+
+  <!-- phone pill -->
+  <rect x="96" y="430" width="430" height="84" rx="42" fill="#cc785c"/>
+  <text x="311" y="484" text-anchor="middle" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#ffffff">Call (917) 396-9796</text>
+
+  <text x="96" y="566" font-family="Arial, sans-serif" font-size="25" fill="#6c6a64">Drains · Water Heaters · Leaks · Repairs · Emergency Service · Open daily 6am–10pm</text>
+</svg>

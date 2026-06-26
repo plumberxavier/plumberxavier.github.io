@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anthony-sin.github.io/plumber_xavier/sitemap.xml
